@@ -1,6 +1,6 @@
 # Echolocation
 
-Rust app that uses a HRTF to position microphone input in 3D space. The elevation, azimuth, and distance can be controlled via a GUI (TBA).
+Rust app that uses a HRTF to position microphone input in 3D space. The elevation, azimuth, and distance can be controlled via a GUI.
 
 ## Note
 
